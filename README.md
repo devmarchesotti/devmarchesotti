@@ -1,6 +1,6 @@
 ## Hi there 👋
 <img align='right' src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="260">
-<h1 align = "justify"> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, i am Igor</h1>
+<h1 align = "justify"> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, i am Daniel</h1>
 ## Dev. Junior Front-end
 I currently work at [GENESIS](https://www.genesis.tec.br/), I'm learning at the moment **ReactJs**
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]
