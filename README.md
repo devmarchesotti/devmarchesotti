@@ -1,8 +1,8 @@
 ## Hi there 👋
 <img align='right' src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="260">
 <h1 align = "justify"> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, i am Daniel</h1>
-## Dev. Junior Front-end
-I currently work at [GENESIS](https://www.genesis.tec.br/), I'm learning at the moment **ReactJs**
+## Dev. Junior Back-end
+I currently study at [42 SCHOOL](https://42.fr/en/homepage/)), I'm learning at the moment **ReactJs**
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />]
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">]
