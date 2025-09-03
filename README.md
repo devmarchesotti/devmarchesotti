@@ -1,10 +1,10 @@
-## <font size="4">👋 Hi, I'm Daniel Marchesotti!</font>
+## <font size="5">👋 Hi, I'm Daniel Marchesotti!</font>
 
 A passionate self-taught Full Stack web developer.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 Finishing Common Core program at 42 Barcelona.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💬 I love soccer, games and to code, anything about this fell free to contact me.
 
 ---
 
