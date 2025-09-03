@@ -6,7 +6,7 @@ A passionate self-taught Full Stack web developer.
 
 💬 I love soccer, games and programming, anything about this fell free to contact me.
 
----
+
 
 ## 🚀 Minhas Skills
 
@@ -21,7 +21,7 @@ A passionate self-taught Full Stack web developer.
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="SQL"/><code>
 
----
+
 
 ## ⭐ GitHub Stats
 
