@@ -1,10 +1,10 @@
-## <font size="5">👋 Hi, I'm Daniel Marchesotti!</font>
+## <font size="5">👋 Hi, I'm Daniel Marchesotti</font>
 
 A passionate self-taught Full Stack web developer.
 
 🔭 Finishing Common Core program at 42 Barcelona.
 
-💬 I love soccer, games and to code, anything about this fell free to contact me.
+💬 I love soccer, games and programming, anything about this fell free to contact me.
 
 ---
 
@@ -27,4 +27,4 @@ A passionate self-taught Full Stack web developer.
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmarchesotti&show_icons=true)
