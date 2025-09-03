@@ -1,6 +1,6 @@
-## 💜 Olá, meu nome é {seu nome}!
+## <font size="4">👋 Hi, I'm Daniel Marchesotti!</font>
 
-Faça uma breve apresentação sobre você e a sua stack.
+A passionate self-taught Full Stack web developer.
 
 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 
